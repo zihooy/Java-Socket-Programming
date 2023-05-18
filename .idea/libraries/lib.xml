@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file:///Library/Java/JavaVirtualMachines/amazon-corretto-11.jdk/javafx-sdk-11.0.2/lib" />
+      <root url="jar://$USER_HOME$/Downloads/서버/json-20140107.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/jython/jython-installer-2.7.3.jar!/Doc/javadoc" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file:///Library/Java/JavaVirtualMachines/amazon-corretto-11.jdk/javafx-sdk-11.0.2/lib" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file:///Library/Java/JavaVirtualMachines/amazon-corretto-11.jdk/javafx-sdk-11.0.2/lib" />
+      <root url="jar://$USER_HOME$/Downloads/jython/jython-installer-2.7.3.jar!/Demo/embed" />
+      <root url="jar://$USER_HOME$/Downloads/jython/jython-installer-2.7.3.jar!/Demo/jreload/src" />
+      <root url="jar://$USER_HOME$/Downloads/jython/jython-installer-2.7.3.jar!/src" />
+      <root url="jar://$USER_HOME$/Downloads/jython/jython-installer-2.7.3.jar!/tests/java" />
+    </SOURCES>
+    <jarDirectory url="file:///Library/Java/JavaVirtualMachines/amazon-corretto-11.jdk/javafx-sdk-11.0.2/lib" recursive="false" />
+    <jarDirectory url="file:///Library/Java/JavaVirtualMachines/amazon-corretto-11.jdk/javafx-sdk-11.0.2/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>
